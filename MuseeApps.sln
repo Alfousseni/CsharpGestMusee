@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseeApps", "MuseeApps\MuseeApps.csproj", "{BC8B137B-DD34-41D6-A4CF-1220815D3D73}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MuseeApps_Setup", "MuseeApps_Setup\MuseeApps_Setup.vdproj", "{309D3ABB-1F14-4C2E-B7F0-C0EE5B4AE995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8B137B-DD34-41D6-A4CF-1220815D3D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8B137B-DD34-41D6-A4CF-1220815D3D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8B137B-DD34-41D6-A4CF-1220815D3D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8B137B-DD34-41D6-A4CF-1220815D3D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D3ABB-1F14-4C2E-B7F0-C0EE5B4AE995}.Debug|Any CPU.ActiveCfg = Debug
+		{309D3ABB-1F14-4C2E-B7F0-C0EE5B4AE995}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2D0BB3-C106-4595-B9AE-D0AB7C7CCC72}
+	EndGlobalSection
+EndGlobal
